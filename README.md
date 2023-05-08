@@ -2,4 +2,6 @@
 
 Prácticas Proceso Software (curso 2022/23)
 
-Práctica: **NaN**
+## Calificaciones
+
+- **Práctica de Analisis de Requisitos:** *NaN*
